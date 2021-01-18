@@ -105,7 +105,8 @@ button:nth-child(4):hover, button:nth-child(8):hover,
 @media (max-width: 600px) {
     #container{
         max-width: 600px;
+        margin: auto;
         background-image: none;
-        margin-top: 200px;
+        margin-top: 100px;
     }
 }

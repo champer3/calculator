@@ -1,14 +1,13 @@
 body{
     font-family: sans-serif;
     background-color: white;
-    background-color: black;
 }
 
 #container{
     height: 550px;
     width: 1000px;
-    background-image:  url(gra.PNG);
-    margin: 20px auto;
+    background-image:  url(blackish.png);
+    margin: 20px auto;;
 }
 
 #calculator{
